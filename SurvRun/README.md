@@ -1,0 +1,1 @@
+Survival-run game. Collect as much as you can to survive. Damage increases with time.
